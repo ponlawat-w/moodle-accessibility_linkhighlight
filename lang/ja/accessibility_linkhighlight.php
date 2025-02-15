@@ -25,4 +25,3 @@
 $string['disabled'] = '強調なし';
 $string['enabled'] = '強調あり';
 $string['pluginname'] = 'リンクの強調';
- 
